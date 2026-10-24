@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Adnaan Hussain**, an aspiring frontend developer.
+I'm **Adnaan Hussain**, frontend developer.
 
 I'm currently learning **JavaScript, React, and Tailwind CSS**, building projects and improving my problem-solving skills.
 
